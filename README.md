@@ -2,7 +2,7 @@
 
 I am a full stack engineer passionate about games and interested in Machine Learning.
 
-I am currently studying about software architecture and DevOps.
+I am more focused on back-end technologies, but I have some experience using Vue, React and Angular. Also, I am currently studying more about software architecture and DevOps.
 
 
 <div align="center">
