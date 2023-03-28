@@ -8,7 +8,7 @@ I am currently studying about software architecture and DevOps.
 <div align="center">
   <a href="https://github.com/jpaldi91">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpaldi91&show_icons=true&theme=dark&&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpaldi91&layout=compact&theme=dark&langs_count=8" />
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpaldi91&layout=compact&theme=dark&langs_count=8" /> -->
 </div>
 
   ###
